@@ -71,6 +71,9 @@ i:focus, i:hover {
     color: var(--soft-magneta);
     border: 1px solid var(--soft-magneta);
 }
+.fa-facebook-f {
+    text-align: center;
+}
 @media (max-width: 768px) {
     html {
         font-size: 13px;
